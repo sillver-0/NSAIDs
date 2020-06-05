@@ -1,0 +1,474 @@
+Cough
+fever
+skin rash
+sneezing
+sore throat
+"swelling of the face, fingers, feet, or lower legs"
+Abnormal growth in the breast
+"arm, back, or jaw pain"
+"bloody or black, tarry stools"
+blurred vision
+burning feeling in the chest or stomach
+burning or stinging of the skin
+"burning, tingling, numbness, or pain in the hands, arms, feet, or legs"
+chest pain or discomfort
+chest tightness or heaviness
+chills
+confusion
+congestion in the chest
+cramps
+diarrhea
+dry mouth
+earache
+fast or irregular heartbeat
+heartburn
+heavy bleeding
+heavy non-menstrual vaginal bleeding
+high blood pressure
+increased hunger
+increased thirst
+increased urination
+loss of appetite
+loss of consciousness
+muscle aches and pains
+nausea
+nerve pain
+painful blisters on the trunk of body
+"painful cold sores or blisters on the lips, nose, eyes, or genitals"
+pale skin
+redness or swelling in the ear
+sensation of pins and needles
+soreness or redness around the fingernails and toenails
+stabbing pain
+stiff neck
+stomachache
+stomach pain (severe)
+sweating
+tenderness in the stomach area
+troubled breathing with exertion
+unexplained weight loss
+unusual bleeding or bruising
+unusual tiredness or weakness
+unusual weight gain
+vomiting
+vomiting of blood or material that looks like coffee grounds
+weakness
+wheezing
+Area rash
+changes in skin color
+clay-colored stools
+dilated neck veins
+light-colored stools
+pale or a bluish color skin of the fingers or toes
+seizures
+slurred speech
+"sores, welting, or blisters"
+sudden and severe inability to speak
+unpleasant breath odor
+weakness in the arm or leg on one side of the body
+yellow eyes and skin
+Continuing thirst
+dizziness
+drowsiness
+"headache, severe or continuing"
+shortness of breath
+sudden decrease in the amount of urine
+troubled breathing
+weight gain
+Back pain
+gas
+headache
+heartburn
+inability to sleep
+pain or burning in the throat
+stuffy or runny nose
+Anxiety
+bleeding after defecation
+bloody or cloudy urine
+breast pain
+bone deformity
+buzzing or ringing noise in the ears
+change in sense of taste
+constipation
+decrease in height
+decreased appetite
+depression
+"difficult, burning, or painful urination"
+difficulty with moving or walking
+difficulty with swallowing
+"excessive muscle tone, muscle tension, or tightness"
+excessive tearing
+feeling of pressure
+hair loss
+hives
+hoarseness
+increased sweating
+infection
+inflammation
+"itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at site"
+itching of the vagina or genital area
+joint or muscle pain or stiffness
+"large, flat, blue, or purplish patches in the skin"
+loss of energy or weakness
+loss of hearing
+muscle pain increased
+muscle stiffness
+nervousness
+numbness or tingling in the fingers or toes
+pain during sexual intercourse
+"pain in the back, ribs, arms, or legs"
+pounding heartbeat
+"puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue"
+redness or swelling in the arms or legs
+sensitivity of the skin to sunlight
+severe sunburn
+sleepiness
+straining while passing stool
+sudden sweating and feelings of warmth
+swelling
+swelling or inflammation of the mouth
+tenderness
+"thick, white vaginal discharge with no odor or with a mild odor"
+thinning of the hair
+trouble with swallowing
+troubled breathing
+uncomfortable swelling around anus
+unexplained weight loss
+voice changes
+warmth on the skin
+weakness or heaviness of the legs
+Bleeding gums
+"blistering, peeling, or loosening of the skin"
+bloating
+"large, hive-like swelling on the face, eyelids, lips, tongue, throat, hands, legs, feet, or sex organs"
+loss of sense of smell
+pain
+pinpoint red spots on the skin
+red or irritated eyes
+"red skin lesions, often with a purple center"
+shakiness and unsteady walk
+"sores, ulcers, or white spots in the mouth or on the lips"
+stomach cramps
+swelling of the neck
+tenderness
+"trembling, or other problems with muscle control or coordination"
+unsteadiness
+watery or bloody diarrhea
+Abdominal pain
+acid or sour stomach
+belching
+bloating
+cloudy urine
+decrease in amount of urine
+decrease in urine output or decrease in urine-concentrating ability
+diarrhea
+difficulty having a bowel movement (stool)
+excess air or gas in stomach or intestines
+full feeling
+heartburn
+indigestion
+itching skin
+"pain or discomfort in chest, upper stomach, or throat"
+pale skin
+passing gas
+nausea
+"noisy, rattling breathing"
+rash with flat lesions or small raised lesions on the skin
+shortness of breath
+"swelling of face, fingers, hands, feet, lower legs, or ankles"
+troubled breathing at rest
+troubled breathing with exertion
+unusual bleeding or bruising
+unusual tiredness or weakness
+vomiting
+weight gain
+Abdominal cramps
+stomach soreness or discomfort
+Agitation
+"back, leg, or stomach pains"
+bleeding gums
+"blistering, peeling, loosening of skin"
+blood in urine or stools
+"bloody, black, or tarry stools"
+blurred vision
+burning feeling in chest or stomach
+change in vision
+chest pain
+chills
+clay-colored stools
+coma
+confusion
+constipation
+cough or hoarseness
+dark urine
+decreased urine output
+depression
+difficulty breathing
+difficulty swallowing
+dilated neck veins
+dizziness
+dry mouth
+extreme fatigue
+"fast, irregular, pounding, or racing heartbeat or pulse"
+fever with or without chills
+frequent urination
+general body swelling
+general feeling of tiredness or weakness
+"hair loss, thinning of hair"
+headache
+hives or welts
+hostility
+impaired vision
+increased blood pressure
+"increased volume of pale, dilute urine"
+irregular breathing
+irritability
+itching
+joint or muscle pain
+lab results that show problems with liver
+lethargy
+light-colored stools
+loss of appetite
+lower back or side pain
+muscle twitching
+nosebleeds
+painful or difficult urination
+"pains in stomach, side, or abdomen, possibly radiating to the back"
+pinpoint red spots on skin
+"puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue"
+rash
+"red skin lesions, often with a purple center"
+"red, irritated eyes"
+redness of skin
+seizures
+"severe abdominal pain, cramping, burning"
+severe and continuing nausea
+sore throat
+"sores, ulcers, or white spots in mouth or on lips"
+stiff neck or back
+stomach upset
+stupor
+swollen or painful glands
+tenderness in stomach area
+thirst
+tightness in chest
+unpleasant breath odor
+upper right abdominal pain
+vomiting of blood
+vomiting of material that looks like coffee grounds
+wheezing
+yellow eyes and skin
+Bluish lips or skin
+difficulty sleeping
+disorientation
+"dizziness, faintness, or lightheadedness when getting up from a lying or sitting position suddenly"
+drowsiness to profound coma
+hallucination
+lightheadedness or fainting
+mood or other mental changes
+muscle tremors
+not breathing
+"rapid, deep breathing"
+restlessness
+slow or irregular heartbeat
+stomach cramps
+sudden fainting
+sweating
+Continuing ringing or buzzing or other unexplained noise in ears
+hearing loss
+nervousness
+Crying
+depersonalization
+discouragement
+dry eyes
+dysphoria
+euphoria
+feeling sad or empty
+lack of appetite
+loss of interest or pleasure
+mental depression
+paranoia
+quick to react or overreact
+rapidly changing moods
+runny nose
+sleepiness or unusual drowsiness
+sleeplessness
+sneezing
+stuffy nose
+trouble concentrating
+trouble sleeping
+unable to sleep
+Belching
+bruising
+difficult or labored breathing
+feeling of indigestion
+headache
+itching skin
+"large, flat, blue, or purplish patches in the skin"
+pain in the chest below the breastbone
+skin eruptions
+stomach pain
+swelling
+tightness in the chest
+Bloating
+"bloody or black, tarry stools"
+blurred or loss of vision
+burning upper abdominal or stomach pain
+cloudy urine
+constipation
+decrease in urine output or decrease in urine-concentrating ability
+disturbed color perception
+double vision
+"fast, irregular, pounding, or racing heartbeat or pulse"
+halos around lights
+indigestion
+loss of appetite
+nausea or vomiting
+night blindness
+overbright appearance of lights
+pale skin
+pinpoint red or purple spots on the skin
+severe and continuing nausea
+"severe stomach burning, cramping, or pain"
+skin rash
+swelling or inflammation of the mouth
+troubled breathing with exertion
+tunnel vision
+unusual bleeding or bruising
+unusual tiredness or weakness
+vomiting of material that looks like coffee grounds
+weight loss
+Anxiety
+back or leg pains
+bleeding gums
+blindness
+"blistering, peeling, or loosening of the skin"
+blood in the urine or stools
+blue lips and fingernails
+canker sores
+"change in the ability to see colors, especially blue or yellow"
+chest pain or discomfort
+clay-colored stools
+cold sweats
+coma
+confusion
+"cool, pale skin"
+cough or hoarseness
+coughing that sometimes produces a pink frothy sputum
+cracks in the skin
+darkened urine
+decreased vision
+depression
+diarrhea
+"difficult, burning, or painful urination"
+"difficult, fast, or noisy breathing"
+difficulty with swallowing
+dilated neck veins
+dizziness
+dry cough
+dry mouth
+"early appearance of redness, or swelling of the skin"
+excess air or gas in the stomach
+extreme fatigue
+eye pain
+fainting
+fever with or without chills
+fluid-filled skin blisters
+"flushed, dry skin"
+frequent urination
+fruit-like breath odor
+greatly decreased frequency of urination or amount of urine
+hair loss
+high fever
+hives
+increased hunger
+increased sensitivity of the skin to sunlight
+increased sweating
+increased thirst
+increased urination
+"increased volume of pale, dilute urine"
+irregular breathing
+joint or muscle pain
+"large, hive-like swelling on the face, eyelids, lips, tongue, throat, hands, legs, feet, or sex organs"
+"late appearance of rash with or without weeping blisters that become crusted, especially in sun-exposed areas of skin, may extend to unexposed areas"
+light-colored stools
+lightheadedness
+loss of heat from the body
+lower back or side pain
+nervousness
+nightmares
+no blood pressure
+no breathing
+no pulse
+nosebleeds
+"numbness or tingling in the hands, feet, or lips"
+pain in the ankles or knees
+pain or burning in the throat
+"pain or discomfort in the arms, jaw, back, or neck"
+"painful, red lumps under the skin, mostly on the legs"
+"pains in the stomach, side, or abdomen, possibly radiating to the back"
+"pale or blue lips, fingernails, or skin"
+pounding in the ears
+"puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue"
+"rapid, shallow breathing"
+"red, irritated eyes"
+"red skin lesions, often with a purple center"
+red-green color blindness
+redness or other discoloration of the skin
+"redness, swelling, or soreness of the tongue"
+scaly skin
+seizures
+severe sunburn
+shakiness
+skin thinness
+slurred speech
+sneezing
+sore throat
+"sores, ulcers, or white spots on the lips or tongue or inside the mouth"
+"sores, welting, or blisters"
+spots on your skin resembling a blister or pimple
+stiff neck or back
+stomach cramps or tenderness
+stomach upset
+swelling in the legs and ankles
+"swelling of the face, fingers, feet, or lower legs"
+"swollen, painful, or tender lymph glands in the neck, armpit, or groin"
+tiny bumps on the inner lining of the eyelid
+unexplained weight loss
+unpleasant breath odor
+watery or bloody diarrhea
+weakness or heaviness of the legs
+weight gain
+yellow eyes or skin
+Bleeding under the skin
+"confusion about identity, place, and time"
+muscle tremors
+restlessness
+sleepiness
+Continuing ringing or buzzing or other unexplained noise in the ears
+hearing loss
+Acid or sour stomach
+change in hearing
+feeling of constant movement of self or surroundings
+passing gas
+sensation of spinning
+stomach soreness or discomfort
+Appetite changes
+"burning, crawling, itching, numbness, prickling, ""pins and needles"", or tingling feelings"
+"burning, dry, or itching eyes"
+difficulty with moving
+"discharge, excessive tearing"
+general feeling of discomfort or illness
+lack or loss of strength
+menstrual changes
+"muscle aching, cramping, stiffness, or weakness"
+not able to concentrate
+"redness, pain, or swelling of the eye, eyelid, or inner lining of the eyelid"
+"seeing, hearing, or feeling things that are not there"
+"shakiness in the legs, arms, hands, or feet"
+swollen joints
+trembling or shaking of the hands or feet
+trouble getting pregnant
+trouble performing routine tasks
+trouble sleeping
+"unusual drowsiness, dullness, or feeling of sluggishness"
