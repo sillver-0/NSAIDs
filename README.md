@@ -18,4 +18,4 @@ celecoxib.csv, ibuprofen.csv, naproxen.csv: drugs.com, askapatient.com 등 5개�
 
 side_effect.txt: drugs.com에서 제공한 Celecoxib, Naproxen, Ibuprofen의 부작용 데이터이다.
 
-lstm_0421.py: LSTM을 활용한 예측 모델. Word2Vec을 활용하여 레이블링을 다시 진행하였다.
+lstm_0420.py: LSTM을 활용한 예측 모델. Word2Vec을 활용하여 레이블링을 다시 진행하였다.
